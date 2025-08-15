@@ -1,4 +1,4 @@
-const API_URL = 'http://https://genai-sandy.vercel.app/chat';
+const API_URL = 'http://genai-sandy.vercel.app/chat';
 
 function displayPersonality() {
   const personality = localStorage.getItem('chatPersonality') || "Friendly";
